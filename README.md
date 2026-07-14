@@ -28,34 +28,6 @@ https://open-meteo.com/en/docs/historical-weather-api
 
 ---
 
-## Project Structure
-
-```
-German-Electricity-Forecasting/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── figures/
-│
-├── models/
-│
-├── results/
-│
-├── notebooks/
-│   └── German_Electricity_Forecasting.ipynb
-│
-├── report/
-│   └── Report.pdf
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
----
-
 ## Project Workflow
 
 The project consists of the following stages:
